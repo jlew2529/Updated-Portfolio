@@ -51,8 +51,17 @@ h2 {
     color: white;
 }
 
-.sticky-footer {
-    position: absolute;
+.links {
+    height: 100px;
+}
+
+i {
+    width: 50px;
+    height: 50px;
+}
+
+.footer {
+    position: relative;
     left: 0;
     bottom: 0;
     height: 20px;
