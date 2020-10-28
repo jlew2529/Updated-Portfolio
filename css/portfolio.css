@@ -44,7 +44,6 @@ h1 {
     margin: 0 auto;
     margin-top: 10px;
     background-color: black;
-    height: 340px;
 }
 
 h2 {
@@ -54,7 +53,7 @@ h2 {
 .project1 {
     background-color: grey;
     margin-top: 10px;
-    height: 250px;
+    height: 290px;
 }
 
 #project1img {
@@ -66,12 +65,91 @@ h2 {
     padding-bottom: 10px;
 }
 
-a {
-    padding-left: 100px;
+.project1 ul {
+    list-style-type: none;
 }
 
-.sticky-footer {
-    position: absolute;
+.project1 ul li a {
+    padding-left: 10px;
+    text-decoration: none;
+}
+
+.weather {
+    background-color: grey;
+    margin-top: 10px;
+    height: 290px;
+}
+
+#weatherimg {
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+.weather ul {
+    list-style-type: none;
+}
+
+.weather ul li a {
+    padding-left: 10px;
+    text-decoration: none;
+}
+
+.quiz {
+    background-color: grey;
+    margin-top: 10px;
+    height: 290px;
+}
+
+#quizimg {
+    width: 250px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+.quiz ul {
+    list-style-type: none;
+}
+
+.quiz ul li a {
+    padding-left: 10px;
+    text-decoration: none;
+}
+
+.project2 {
+    background-color: grey;
+    margin-top: 10px;
+    height: 290px;
+}
+
+#project2img {
+    width: 250px;
+    height: 220px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+.project2 ul {
+    list-style-type: none;
+}
+
+.project2 ul li a {
+    padding-left: 10px;
+    text-decoration: none;
+}
+
+.footer {
+    position: relative;
     left: 0;
     bottom: 0;
     height: 20px;
