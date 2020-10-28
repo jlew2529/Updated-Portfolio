@@ -44,6 +44,7 @@ h1 {
     margin: 0 auto;
     margin-top: 10px;
     background-color: black;
+    height: 580px;
 }
 
 h2 {
@@ -63,8 +64,8 @@ img {
     color: white;
 }
 
-.sticky-footer {
-    position: absolute;
+.footer {
+    position: relative;
     left: 0;
     bottom: 0;
     height: 20px;
